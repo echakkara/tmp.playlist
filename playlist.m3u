@@ -1,4 +1,10 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://kodi.botallen.com/tv/epg.xml"
+#EXTINF:0 tvg-id="636" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_News.png" group-title="Tamil News",Polimer News
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+https://utube.arapurayil.com/stream/UC8Z-VjXBtDJTvq6aqkIskPg/master.m3u8
+
 #EXTINF:-1 ,TAMIL (HD)- ADHTIYA TV
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/40805
 #EXTINF:-1 ,TAMIL (HD)- COLORS TAMIL HD
