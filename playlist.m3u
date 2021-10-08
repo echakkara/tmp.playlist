@@ -4,3 +4,10 @@
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 https://utube.arapurayil.com/stream/UC8Z-VjXBtDJTvq6aqkIskPg/master.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/MHH6UNS.png" group-title="Tamil News",Thanthi TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+https://utube.arapurayil.com/stream/UC-JFyL0zDFOsPMpuWu39rPA/master.m3u8
+
