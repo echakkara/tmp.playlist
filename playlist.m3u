@@ -77,6 +77,25 @@ http://139.59.55.243/sunnxt/live.php?c=26567&e=.m3u8
 #EXTINF:-1 tvg-id="9023" tvg-logo="https://sund-images.sunnxt.com/9023/1000x1000_30878292-a63e-4414-acbc-902c0afb4b9b.jpg" group-title="Sneh SunNXT",Adithya TV
 http://139.59.55.243/sunnxt/live.php?c=9023&e=.m3u8
 
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/14020/500x750_SunTVHD_14020_6c8b0d77-dfb1-4456-8af8-6b219c28885d.jpg" group-title="SUNNXT-LIVE",SUN TV HD
+https://cdn02.vidstrm.xyz:8096/s/SunTVHD/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/26566/500x750_KTVHD_26566_3f1d6cd3-6142-43b8-b78c-860477a91b90.jpg" group-title="SUNNXT-LIVE",KTV HD
+https://cdn02.vidstrm.xyz:8096/s/KTVHD/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/9013/500x750_SunMusicHD_9013_a1f6d6ac-015b-4e0f-b756-bc331824e590.jpg" group-title="SUNNXT-LIVE",SUN MUSIC HD
+https://cdn02.vidstrm.xyz:8096/s/SunMusicHD/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/26569/500x750_SunLife_26569_b149631f-04c2-41f5-bb30-c23d0127336b.jpg" group-title="SUNNXT-LIVE",SUN LIFE
+https://cdn02.vidstrm.xyz:8096/s/SunLife/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/9023/500x750_AdithyaTV_9023_8d1754a9-b044-4782-9bf6-f8eec1c7a165.jpg" group-title="SUNNXT-LIVE",ADITHYA TV
+https://cdn02.vidstrm.xyz:8096/s/AdithyaTV/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/26567/500x750_ChuttiTV_26567_f5c8f413-9a9c-4e75-ab9c-ae52e44230bf.jpg" group-title="SUNNXT-LIVE",CHUTTI TV
+https://cdn02.vidstrm.xyz:8096/s/ChuttiTV/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/9016/500x750_SunTV_9016_2f6432cf-c588-4fe3-a7d8-76ca4abe64b4.jpg" group-title="SUNNXT-LIVE",SUN TV
+https://cdn02.vidstrm.xyz:8096/s/SunTV/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/32138/500x750_KTV_32138_d242116d-02e1-44d3-ae76-0e2096c8667d.jpg" group-title="SUNNXT-LIVE",KTV
+https://cdn02.vidstrm.xyz:8096/s/KTV/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/9025/500x750_SunMusic_9025_ce616d71-a7be-4895-9c88-26f6fb8e796f.jpg" group-title="SUNNXT-LIVE",SUN MUSIC
+https://cdn02.vidstrm.xyz:8096/s/SunMusic/index.m3u8
+
 #EXTINF:-1 tvg-id="3TamilTV.in" tvg-name="3 Tamil TV" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/WfAU7pB.png" group-title="Entertainment",3 Tamil TV (720p)
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 #EXTINF:-1 tvg-id="7SMusic.in" tvg-name="7S Music" tvg-country="IN" tvg-language="Tamil" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/07/7s_music.png" group-title="Music",7S Music (576p)
