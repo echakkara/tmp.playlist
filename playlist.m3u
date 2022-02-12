@@ -1,4 +1,20 @@
-#EXTM3U x-tvg-url="https://kodi.botallen.com/tv/epg.xml"
+#EXTM3U x-tvg-url="https://github.com/mitthu786/tvepg/releases/download/latest/epg.xml.gz"
+
+#EXTINF:-1 tvg-id="14020" tvg-logo="https://sund-images.sunnxt.com/14020/1000x1000_9dd88de4-18ab-493b-98fe-6eb27e9cbf5e.jpg" group-title="SunNXT",Sun TV HD
+https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt.php?id=14020&e=junk.m3u8
+#EXTINF:-1 tvg-id="9013" tvg-logo="https://sund-images.sunnxt.com/9013/1000x1000_ff49d176-a9d2-4f50-b6bc-a10caac8d3a5.jpg" group-title="SunNXT",Sun Music HD
+https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt.php?id=9013&e=junk.m3u8
+#EXTINF:-1 tvg-id="14020" tvg-logo="https://sund-images.sunnxt.com/9016/1000x1000_4522d18b-56cc-42be-8365-c54e21a6e394.jpg" group-title="SunNXT",Sun TV
+https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt.php?id=9016&e=junk.m3u8
+#EXTINF:-1 tvg-id="26569" tvg-logo="https://sund-images.sunnxt.com/26569/1000x1000_SunLife_26569_1e6604fc-2df9-4598-8f1c-dcbda46254ab.jpg" group-title="SunNXT",Sun Life
+https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt.php?id=26569&e=junk.m3u8
+#EXTINF:-1 tvg-id="32138" tvg-logo="https://sund-images.sunnxt.com/26566/1000x1000_45814266-8c8b-45c6-a801-643e6734f73d.jpg" group-title="SunNXT",KTV HD
+https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt.php?id=26566&e=junk.m3u8
+#EXTINF:-1 tvg-id="26567" tvg-logo="https://sund-images.sunnxt.com/26567/1000x1000_c103e59e-217e-44fd-a087-651fcf8e6278.jpg" group-title="SunNXT",Chutti TV
+https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt.php?id=26567&e=junk.m3u8
+#EXTINF:-1 tvg-id="9023" tvg-logo="https://sund-images.sunnxt.com/9023/1000x1000_30878292-a63e-4414-acbc-902c0afb4b9b.jpg" group-title="SunNXT",Adithya TV
+https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt.php?id=9023&e=junk.m3u8
+
 #EXTINF:0 tvg-id="636" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_News.png" group-title="Tamil News",Polimer News
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -11,19 +27,33 @@ https://utube.arapurayil.com/stream/UC8Z-VjXBtDJTvq6aqkIskPg/master.m3u8
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 https://utube.arapurayil.com/stream/UC-JFyL0zDFOsPMpuWu39rPA/master.m3u8
 
+#EXTINF:-1 tvg-id="155" group-title="SnehJio Sports English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png",Sony Six HD
+https://snehapi.in1.bitmana.io/jioapi/snehjioxx.php?c=Six_HD&q=1200&e=junk.m3u8
 
-#EXTINF:-1 tvg-id="14020" tvg-logo="https://sund-images.sunnxt.com/14020/1000x1000_9dd88de4-18ab-493b-98fe-6eb27e9cbf5e.jpg" group-title="Sneh SunNXT",Sun TV HD
-https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt.php?id=14020&e=junk.m3u8
-#EXTINF:-1 tvg-id="9013" tvg-logo="https://sund-images.sunnxt.com/9013/1000x1000_ff49d176-a9d2-4f50-b6bc-a10caac8d3a5.jpg" group-title="Sneh SunNXT",Sun Music HD
-https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt.php?id=9013&e=junk.m3u8
-#EXTINF:-1 tvg-id="9016" tvg-logo="https://sund-images.sunnxt.com/9016/1000x1000_4522d18b-56cc-42be-8365-c54e21a6e394.jpg" group-title="Sneh SunNXT",Sun TV
-https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt.php?id=9016&e=junk.m3u8
-#EXTINF:-1 tvg-id="26569" tvg-logo="https://sund-images.sunnxt.com/26569/1000x1000_SunLife_26569_1e6604fc-2df9-4598-8f1c-dcbda46254ab.jpg" group-title="Sneh SunNXT",Sun Life
-https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt.php?id=26569&e=junk.m3u8
-#EXTINF:-1 tvg-id="26566" tvg-logo="https://sund-images.sunnxt.com/26566/1000x1000_45814266-8c8b-45c6-a801-643e6734f73d.jpg" group-title="Sneh SunNXT",KTV HD
-https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt.php?id=26566&e=junk.m3u8
-#EXTINF:-1 tvg-id="26567" tvg-logo="https://sund-images.sunnxt.com/26567/1000x1000_c103e59e-217e-44fd-a087-651fcf8e6278.jpg" group-title="Sneh SunNXT",Chutti TV
-https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt.php?id=26567&e=junk.m3u8
-#EXTINF:-1 tvg-id="9023" tvg-logo="https://sund-images.sunnxt.com/9023/1000x1000_30878292-a63e-4414-acbc-902c0afb4b9b.jpg" group-title="Sneh SunNXT",Adithya TV
-https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt.php?id=9023&e=junk.m3u8
+#EXTINF:-1 tvg-id="162" group-title="SnehJio Sports English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png",Ten 1 HD
+https://snehapi.in1.bitmana.io/jioapi/snehjioxx.php?c=Ten_HD&q=1200&e=junk.m3u8
 
+#EXTINF:-1 tvg-id="891" group-title="SnehJio Sports English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png",Ten 2 HD
+https://snehapi.in1.bitmana.io/jioapi/snehjioxx.php?c=Ten2_HD&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-id="875" group-title="SnehJio Sports English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports_HD.png",Eurosport HD
+https://snehapi.in1.bitmana.io/jioapi/snehjioxx.php?c=Dsports_HD&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-id="460" group-title="SnehJio Sports English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_1.png",Star Sports Select HD1
+https://snehapi.in1.bitmana.io/jioapi/snehjioxx.php?c=Star_Sports_Select_HD_1&q=800&e=junk.m3u8
+
+#EXTINF:-1 tvg-id="159" group-title="SnehJio Sports English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD_1.png",Star Sports 1
+https://snehapi.in1.bitmana.io/jioapi/snehjioxx.php?c=Star_Sports_HD_1&q=800&e=junk.m3u8
+
+
+#EXTINF:-1 tvg-id="160" group-title="SnehJio Sports English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD_2.png",Star Sports 2
+https://snehapi.in1.bitmana.io/jioapi/snehjioxx.php?c=Star_Sports_HD_2&q=800&e=junk.m3u8
+
+#EXTINF:-1 tvg-id="461" group-title="SnehJio Sports English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_2.png",Star Sports Select HD2
+https://snehapi.in1.bitmana.io/jioapi/snehjioxx.php?c=Star_Sports_Select_HD_2&q=800&e=junk.m3u8
+
+#EXTINF:-1 tvg-id="1294" group-title="SnehJio Sports English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports.png",Eurosport
+https://snehapi.in1.bitmana.io/jioapi/snehjioxx.php?c=Dsports&q=800&e=junk.m3u8
+
+#EXTINF:-1 tvg-id="1882" group-title="SnehJio Sports English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TEST15_HD.png",TEST15 HD
+https://snehapi.in1.bitmana.io/jioapi/snehjioxx.php?c=TEST15_HD&q=1200&e=junk.m3u8
