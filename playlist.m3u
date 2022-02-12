@@ -27,3 +27,22 @@ https://utube.arapurayil.com/stream/UC8Z-VjXBtDJTvq6aqkIskPg/master.m3u8
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 https://utube.arapurayil.com/stream/UC-JFyL0zDFOsPMpuWu39rPA/master.m3u8
 
+#EXTINF:0 tvg-id="ext" group-title="Sports",Star Sports 1 FHD VIP IN
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/5431
+#EXTINF:0 tvg-id="ext" group-title="Sports",TEN Sports FHD IN
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/5433
+#EXTINF:0 tvg-id="StarSportsHD2.in" group-title="Global Sports",Star Sports 2 FHD IN
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/5430
+#EXTINF:0 tvg-id="StarSportsHD3.in" group-title="Sports",Star Sports 3 HD IN
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/5429
+#EXTINF:0 tvg-id="ext" group-title="Sports",Willow Cricket HD IN
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/5437
+#EXTINF:0 tvg-id="SonySix.in" group-title="Sports",Sony Six SD IN
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/5436
+#EXTINF:0 tvg-id="TenSports.in" group-title="India",Sony Ten 1 IN
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/672325
+#EXTINF:0 tvg-id="TenAction.in" group-title="India",Sony Ten 2 HD IN
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/672444
+#EXTINF:0 tvg-id="TenCricket.in" group-title="India",Sony Ten 3 IN
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/672445
+
