@@ -14,24 +14,6 @@ https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt.php?id=26566&e=junk.m3u8
 https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt.php?id=26567&e=junk.m3u8
 #EXTINF:-1 tvg-id="9023" tvg-logo="https://sund-images.sunnxt.com/9023/1000x1000_30878292-a63e-4414-acbc-902c0afb4b9b.jpg" group-title="Tamil",Adithya TV
 https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt.php?id=9023&e=junk.m3u8
-#EXTINF:0 tvg-id="0-9-zeetamil" group-title="Tamil" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetamil/channel_web/1170x6581250786368.png",Zee Tamil HD
-https://snehapi.in1.bitmana.io/z5api/snehz5api/zeetamil.m3u8
-#EXTINF:0 tvg-id="0-9-224" group-title="Tamil" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-224/channel_web/1170x658withlogo_334138193.png",Zee Thirai
-https://snehapi.in1.bitmana.io/z5api/snehz5api/224.m3u8
-
-#EXTINF:0 tvg-id="0-9-ddpodhigai" group-title="Tamil" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-ddpodhigai/channel_web/1170x658withlog_1550486077.png",DD Podhigai
-
-#EXTINF:0 tvg-id="429" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil_HD.png" group-title="Tamil",Colors Tamil HD
-https://livevoot-i.akamaihd.net/dash/live/828537/colorstamilhd/master.mpd
-
-#EXTINF:0 tvg-id="368" group-title="Tamil" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Vijay.png",Star Vijay HD
-https://snehapi.in1.bitmana.io/jioapi/tsjio800/Star_Vijay.m3u8
-
-#EXTINF:0 group-title="Tamil" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png",Vijay Music
-http://last.gcdn.co/IND290/tracks-v1a1/mono.m3u8
-
-#EXTINF:0 group-title="SnehSouth Local" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png",Jaya Movie
-http://last.gcdn.co/IND291/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="636" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_News.png" group-title="Tamil News",Polimer News
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
