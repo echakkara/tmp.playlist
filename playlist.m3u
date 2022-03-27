@@ -1,41 +1,34 @@
 #EXTM3U x-tvg-url="https://github.com/mitthu786/tvepg/releases/download/latest/epg.xml.gz"
 
-#EXTINF:-1 tvg-id="125944" tvg-logo="https://sund-images.sunnxt.com/14020/1000x1000_9dd88de4-18ab-493b-98fe-6eb27e9cbf5e.jpg" group-title="Tamil",Sun TV HD
-https://snehapi-march.in1.bitmana.io/snxtapi/sneh-snxt/14020.m3u8
-#EXTINF:-1 tvg-id="9013" tvg-logo="https://sund-images.sunnxt.com/9013/1000x1000_ff49d176-a9d2-4f50-b6bc-a10caac8d3a5.jpg" group-title="Tamil",Sun Music HD
-https://snehapi-march.in1.bitmana.io/snxtapi/sneh-snxt/9013.m3u8
-#EXTINF:-1 tvg-id="125944" tvg-logo="https://sund-images.sunnxt.com/9016/1000x1000_4522d18b-56cc-42be-8365-c54e21a6e394.jpg" group-title="Tamil",Sun TV
-https://snehapi-march.in1.bitmana.io/snxtapi/sneh-snxt/9016.m3u8
-#EXTINF:-1 tvg-id="26569" tvg-logo="https://sund-images.sunnxt.com/26569/1000x1000_SunLife_26569_1e6604fc-2df9-4598-8f1c-dcbda46254ab.jpg" group-title="Tamil",Sun Life
-https://snehapi-march.in1.bitmana.io/snxtapi/sneh-snxt/26569.m3u8
-#EXTINF:-1 tvg-id="26566" tvg-logo="https://sund-images.sunnxt.com/26566/1000x1000_45814266-8c8b-45c6-a801-643e6734f73d.jpg" group-title="Tamil",KTV HD
-https://snehapi-march.in1.bitmana.io/snxtapi/sneh-snxt.php?id=26566&e=junk.m3u8
-#EXTINF:-1 tvg-id="26567" tvg-logo="https://sund-images.sunnxt.com/26567/1000x1000_c103e59e-217e-44fd-a087-651fcf8e6278.jpg" group-title="Tamil",Chutti TV
-https://snehapi-march.in1.bitmana.io/snxtapi/sneh-snxt/26566.m3u8
-#EXTINF:-1 tvg-id="9023" tvg-logo="https://sund-images.sunnxt.com/9023/1000x1000_30878292-a63e-4414-acbc-902c0afb4b9b.jpg" group-title="Tamil",Adithya TV
-https://snehapi-march.in1.bitmana.io/snxtapi/sneh-snxt/9023.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="IN: Star_Vijay HD" tvg-logo="" group-title="Tamil", Star_Vijay HD
-https://snehapi-march.in1.bitmana.io/snehstar7/star7world/48006.m3u8|user-agent="REDLINECLIENT"
-
-#EXTINF:-1 tvg-id="red48006" group-title="Tamil" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/STARVJAYHD.png",TAMIL STAR VIJAY HD
-https://snehapi-march.in1.bitmana.io/snehstar7/star7world/48006.m3u8|user-agent="REDLINECLIENT"
-#EXTINF:0 tvg-id="636" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_News.png" group-title="Tamil News",Polimer News
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-https://utube.arapurayil.com/stream/UC8Z-VjXBtDJTvq6aqkIskPg/master.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/MHH6UNS.png" group-title="Tamil News",Thanthi TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-https://utube.arapurayil.com/stream/UC-JFyL0zDFOsPMpuWu39rPA/master.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Sports",Star Sports 1 FHD VIP IN
-https://snehapi-march.in1.bitmana.io/snehstar7/star7world/14000.m3u8|user-agent="REDLINECLIENT"
-#EXTINF:0 tvg-id="ext" group-title="Sports",TEN Sports FHD IN
-https://snehapi-march.in1.bitmana.io/snehstar7/star7world/48155.m3u8|user-agent="REDLINECLIENT"
-#EXTINF:0 tvg-id="StarSportsHD2.in" group-title="Sports",Star Sports 2 FHD IN
-https://snehapi-march.in1.bitmana.io/snehstar7/star7world/51242.m3u8|user-agent="REDLINECLIENT"
+#EXTINF:-1,ASTRO Adithya
+http://iptv.tvmalaysia.cc:80/136915/136915/6700
+#EXTINF:-1,ASTRO AEC HD
+http://iptv.tvmalaysia.cc:80/136915/136915/6701
+#EXTINF:-1,ASTRO AOD 351 HD
+http://iptv.tvmalaysia.cc:80/136915/136915/6702
+#EXTINF:-1, ASTRO AOD 352 HD
+http://iptv.tvmalaysia.cc:80/136915/136915/6703
+#EXTINF:-1,ASTRO AOD 353 HD
+http://iptv.tvmalaysia.cc:80/136915/136915/6704
+#EXTINF:-1,ASTRO AOD 354 HD
+http://iptv.tvmalaysia.cc:80/136915/136915/6705
+#EXTINF:-1,ASTRO AOD 355 HD
+http://iptv.tvmalaysia.cc:80/136915/136915/6706
+#EXTINF:-1,ASTRO Colors Tamil
+http://iptv.tvmalaysia.cc:80/136915/136915/6716
+#EXTINF:-1,ASTRO Zee Tamil HD
+http://iptv.tvmalaysia.cc:80/136915/136915/6742
+#EXTINF:-1,ASTRO GO Shop 2
+http://iptv.tvmalaysia.cc:80/136915/136915/6718
+#EXTINF:-1,ASTRO Vinmeen HD
+http://iptv.tvmalaysia.cc:80/136915/136915/6739
+#EXTINF:-1,ASTRO Vaanavil HD
+http://iptv.tvmalaysia.cc:80/136915/136915/6738
+#EXTINF:-1,Makkal TV
+http://iptv.tvmalaysia.cc:80/136915/136915/6806
+#EXTINF:-1,ASTRO Sun TV HD
+http://iptv.tvmalaysia.cc:80/136915/136915/6733
+#EXTINF:-1,ASTRO Star Vijay HD
+http://iptv.tvmalaysia.cc:80/136915/136915/6732
+#EXTINF:-1,Jaya Max
+http://iptv.tvmalaysia.cc:80/136915/136915/6802
