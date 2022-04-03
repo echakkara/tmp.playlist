@@ -1,55 +1,17 @@
 #EXTM3U x-tvg-url="https://github.com/mitthu786/tvepg/releases/download/latest/epg.xml.gz"
-#EXTINF:-1 tvg-id="sun14020" group-title="SunNXT" tvg-logo="https://sund-images.sunnxt.com/14020/1000x1500_SunTVHD_14020_6c8b0d77-dfb1-4456-8af8-6b219c28885d.jpg", Sun TV HD
-https://iptv.ambaniuncle.tk/sunnxt/sunnxt.m3u8?id=14020
-#EXTINF:-1 tvg-id="sun38926" group-title="SunNXT" tvg-logo="https://sund-images.sunnxt.com/38926/1000x1500_SunNews_38926_d9234353-be56-4e69-8bbd-c3b15378e7cb.jpg", Sun News
-https://iptv.ambaniuncle.tk/sunnxt/sunnxt.m3u8?id=38926
-#EXTINF:-1 tvg-id="sun26566" group-title="SunNXT" tvg-logo="https://sund-images.sunnxt.com/26566/1000x1500_KTVHD_26566_3f1d6cd3-6142-43b8-b78c-860477a91b90.jpg", KTV HD
-https://iptv.ambaniuncle.tk/sunnxt/sunnxt.m3u8?id=26566
-#EXTINF:-1 tvg-id="sun9013" group-title="SunNXT" tvg-logo="https://sund-images.sunnxt.com/9013/1000x1500_SunMusicHD_9013_a1f6d6ac-015b-4e0f-b756-bc331824e590.jpg", Sun Music HD
-https://iptv.ambaniuncle.tk/sunnxt/sunnxt.m3u8?id=9013
-#EXTINF:-1 tvg-id="sun26569" group-title="SunNXT" tvg-logo="https://sund-images.sunnxt.com/26569/1000x1500_SunLife_26569_b149631f-04c2-41f5-bb30-c23d0127336b.jpg", Sun Life
-https://iptv.ambaniuncle.tk/sunnxt/sunnxt.m3u8?id=26569
-#EXTINF:-1 tvg-id="sun9023" group-title="SunNXT" tvg-logo="https://sund-images.sunnxt.com/9023/1000x1500_AdithyaTV_9023_8d1754a9-b044-4782-9bf6-f8eec1c7a165.jpg", Adithya TV
-https://iptv.ambaniuncle.tk/sunnxt/sunnxt.m3u8?id=9023
-#EXTINF:-1 tvg-id="sun26567" group-title="SunNXT" tvg-logo="https://sund-images.sunnxt.com/26567/1000x1500_ChuttiTV_26567_f5c8f413-9a9c-4e75-ab9c-ae52e44230bf.jpg", Chutti TV
-https://iptv.ambaniuncle.tk/sunnxt/sunnxt.m3u8?id=26567
-#EXTINF:-1 tvg-id="sun9016" group-title="SunNXT" tvg-logo="https://sund-images.sunnxt.com/9016/1000x1500_SunTV_9016_2f6432cf-c588-4fe3-a7d8-76ca4abe64b4.jpg", Sun TV
-https://iptv.ambaniuncle.tk/sunnxt/sunnxt.m3u8?id=9016
-#EXTINF:-1 tvg-id="sun32138" group-title="SunNXT" tvg-logo="https://sund-images.sunnxt.com/32138/1000x1500_KTV_32138_d242116d-02e1-44d3-ae76-0e2096c8667d.jpg", KTV
-https://iptv.ambaniuncle.tk/sunnxt/sunnxt.m3u8?id=32138
-#EXTINF:-1 tvg-id="sun9025" group-title="SunNXT" tvg-logo="https://sund-images.sunnxt.com/9025/1000x1500_SunMusic_9025_ce616d71-a7be-4895-9c88-26f6fb8e796f.jpg", Sun Music
-https://iptv.ambaniuncle.tk/sunnxt/sunnxt.m3u8?id=9025
-
-
-#EXTINF:-1,ASTRO Adithya
-http://iptv.tvmalaysia.cc:80/136915/136915/6700
-#EXTINF:-1,ASTRO AEC HD
-http://iptv.tvmalaysia.cc:80/136915/136915/6701
-#EXTINF:-1,ASTRO AOD 351 HD
-http://iptv.tvmalaysia.cc:80/136915/136915/6702
-#EXTINF:-1, ASTRO AOD 352 HD
-http://iptv.tvmalaysia.cc:80/136915/136915/6703
-#EXTINF:-1,ASTRO AOD 353 HD
-http://iptv.tvmalaysia.cc:80/136915/136915/6704
-#EXTINF:-1,ASTRO AOD 354 HD
-http://iptv.tvmalaysia.cc:80/136915/136915/6705
-#EXTINF:-1,ASTRO AOD 355 HD
-http://iptv.tvmalaysia.cc:80/136915/136915/6706
-#EXTINF:-1,ASTRO Colors Tamil
-http://iptv.tvmalaysia.cc:80/136915/136915/6716
-#EXTINF:-1,ASTRO Zee Tamil HD
-http://iptv.tvmalaysia.cc:80/136915/136915/6742
-#EXTINF:-1,ASTRO GO Shop 2
-http://iptv.tvmalaysia.cc:80/136915/136915/6718
-#EXTINF:-1,ASTRO Vinmeen HD
-http://iptv.tvmalaysia.cc:80/136915/136915/6739
-#EXTINF:-1,ASTRO Vaanavil HD
-http://iptv.tvmalaysia.cc:80/136915/136915/6738
-#EXTINF:-1,Makkal TV
-http://iptv.tvmalaysia.cc:80/136915/136915/6806
-#EXTINF:-1,ASTRO Sun TV HD
-http://iptv.tvmalaysia.cc:80/136915/136915/6733
-#EXTINF:-1,ASTRO Star Vijay HD
-http://iptv.tvmalaysia.cc:80/136915/136915/6732
-#EXTINF:-1,Jaya Max
-http://iptv.tvmalaysia.cc:80/136915/136915/6802
+#EXTINF:-1 tvg-id="sun125944" group-title="SunNxt" tvg-logo="https://sund-images.sunnxt.com/125944/300x300_SUNMarathi_125944_5e5a0ad1-23ed-4577-a331-791c6fa0e746.jpg",Sun Marathi
+https://snehapi-april.in1.bitmana.io/snxtgo/ts-snxt/125944.m3u8
+#EXTINF:-1 tvg-id="sun14020" tvg-logo="https://sund-images.sunnxt.com/14020/300x300_9dd88de4-18ab-493b-98fe-6eb27e9cbf5e.jpg" group-title="SunNxt",Sun TV HD
+https://snehapi-april.in1.bitmana.io/snxtgo/ts-snxt/14020.m3u8
+#EXTINF:-1 tvg-id="sun9013" tvg-logo="https://sund-images.sunnxt.com/9013/300x300_ff49d176-a9d2-4f50-b6bc-a10caac8d3a5.jpg" group-title="SunNxt",Sun Music HD
+https://snehapi-april.in1.bitmana.io/snxtgo/ts-snxt/9013.m3u8
+#EXTINF:-1 tvg-id="sun38926" tvg-logo="https://sund-images.sunnxt.com/38926/300x300_SunNews_38926_5921657d-45b6-445e-9e26-f0cd67be9d39.jpg" group-title="SunNxt",Sun News
+https://snehapi-april.in1.bitmana.io/snxtgo/ts-snxt/38926.m3u8
+#EXTINF:-1 tvg-id="sun75117" tvg-logo="https://sund-images.sunnxt.com/75117/300x300_4b19b530-f0bb-4b26-a9de-f3cdd5f8be20.jpg" group-title="SunNxt",Sun Bangla
+https://snehapi-april.in1.bitmana.io/snxtgo/ts-snxt/75117.m3u8
+#EXTINF:-1 tvg-id="sun9016" tvg-logo="https://sund-images.sunnxt.com/9016/300x300_4522d18b-56cc-42be-8365-c54e21a6e394.jpg" group-title="SunNxt",Sun TV
+https://snehapi-april.in1.bitmana.io/snxtgo/ts-snxt/9016.m3u8
+#EXTINF:-1 tvg-id="sun26569" tvg-logo="https://sund-images.sunnxt.com/26569/300x300_SunLife_26569_1e6604fc-2df9-4598-8f1c-dcbda46254ab.jpg" group-title="SunNxt",Sun Life
+https://snehapi-april.in1.bitmana.io/snxtgo/ts-snxt/26569.m3u8
+#EXTINF:-1 tvg-id="sun9025" tvg-logo="https://sund-images.sunnxt.com/9025/300x300_c8897f06-b2c0-4856-9d81-02181b821cf7.jpg" group-title="SunNxt",Sun Music
+https://snehapi-april.in1.bitmana.io/snxtgo/ts-snxt/9025.m3u8
